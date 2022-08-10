@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Brian
 - 👀 I'm passionate about the web and web technologies
-- 🌱 I’m currently learning wordpress development
-- 💞️ I’m looking to collaborate on CSS innovations
+- 🌱 I’m currently learning React
 - 📫 How to reach me ... brian.brian.agar@gmail.com
